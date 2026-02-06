@@ -18,18 +18,6 @@
   />
 </div>
 
----
-
-<div align="center">
-  <img
-    alt="Builder GIF"
-    height="220px"
-    src="https://media4.giphy.com/media/tuCFp8rod0x3O/giphy.gif"
-  />
-</div>
-
----
-
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode&perline=6" />
